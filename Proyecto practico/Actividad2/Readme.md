@@ -15,6 +15,6 @@ Esta aplicación web interactiva incluye tres páginas principales que implement
 - **capturas.pdf**: PDF con capturas de las funcionalidades ejecutadas.
 
 ## Instrucciones para Ejecutar
-1. **Clonar el repositorio**:
-   git clone https://github.com/SantiagoDavid18/Proyecto-practico.git
+1. **Ir al repositorio**:
+  https://github.com/SantiagoDavid18/Proyecto-practico.git
    
