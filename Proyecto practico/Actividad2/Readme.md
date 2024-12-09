@@ -16,6 +16,5 @@ Esta aplicación web interactiva incluye tres páginas principales que implement
 
 ## Instrucciones para Ejecutar
 1. **Clonar el repositorio**:
-   ```bash
    git clone https://github.com/SantiagoDavid18/Proyecto-practico.git
-   cd proyecto
+   
